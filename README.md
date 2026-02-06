@@ -62,7 +62,7 @@ Select:
 pnpm dev
 ```
 
-Open **[http://localhost:3000](http://localhost:3000)** in the browser.
+Open https://vercel.com/kenyioliver67-collabs-projects/24-bcy-70263-2b-kenyi-oliver/ALDXzRsqHxXQv6GGdUTSuM9uf5Nx in the browser.
 
 ---
 
